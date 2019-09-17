@@ -24,31 +24,46 @@ textarea[type="message"] {
 }
 
 label {
-    color: #7777;
+    color: #FACD3D;
 }
 
-.submit {
-    background-color: #4aaaa5;
-    color: #ffffff;
-    padding: 10px;
-    margin: 8px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
-    height: 40px;
-    width: 100px;
-    cursor: pointer;
+   
+.contact {
+    color: white !important;
+    font-weight: 450;
+    font-size: 4vw;
 }
 
-.submit:hover {
-    background-color: #cccccc;
-    color: #4aaaa5;   
+.me {
+    color: #FACD3D;
+    font-weight: 200;
+    font-size: 4vw;
 }
 
-.container {
-    margin-bottom: 150px;
-}
+
 
 .btn {
     margin: 8px !important;
     cursor: pointer;
+    text-align: center;
+}
+
+hr {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 8px auto;
+    height: 0;
+    width: 60%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #FACD3D;
+}
+
+.bottom {
+    margin-bottom: 50px;
 }
