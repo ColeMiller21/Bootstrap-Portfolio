@@ -1,0 +1,36 @@
+.about {
+    color: white !important;
+    font-weight: 450;
+    font-size: 4vw;
+}
+
+.me {
+    color: #FACD3D;
+    font-weight: 200;
+    font-size: 4vw;
+}
+
+hr {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 8px auto;
+    height: 0;
+    width: 60%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #FACD3D;
+}
+
+.main {
+    color: white;
+}
+
+.container {
+    width: 60%;
+    height: auto;
+}

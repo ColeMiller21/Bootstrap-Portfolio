@@ -1,0 +1,35 @@
+.navbar {
+    background-color: black !important;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+}
+
+p {
+    font-family: 'Roboto Slab', serif;
+}
+.hello {
+    color: white;
+    font-weight: 400;
+    font-size: 3vw;
+}
+
+.name {
+    color: #FACD3D;
+    font-weight: 450;
+    font-size: 7vw;
+
+}
+
+.statement {
+    color: white;
+    font-weight: 350;
+    font-size: 2vw;
+
+}
+
+.linkd {
+    padding-right: 2%;
+}
+

@@ -1,0 +1,37 @@
+.project {
+    color: #FACD3D;
+    font-weight: 400px;
+    font-size: 4vw;
+}
+hr {
+    display: block;
+    position: relative;
+    padding: 0;
+    margin: 8px auto;
+    height: 0;
+    width: 60%;
+    max-height: 0;
+    font-size: 1px;
+    line-height: 0;
+    clear: both;
+    border: none;
+    border-top: 1px solid #cccccc;
+    border-bottom: 1px solid #FACD3D;
+}
+
+.container {
+    width: 60% !important;
+}
+
+.card-body {
+    max-height: 70%;
+    background-color: black;
+    color: white;
+}
+
+.card-title {
+    color: #FACD3D;
+}
+
+
+
