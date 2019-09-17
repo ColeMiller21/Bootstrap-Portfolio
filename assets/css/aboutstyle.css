@@ -5,7 +5,7 @@
 }
 
 .me {
-    color: #FACD3D;
+    color: #FFC107;
     font-weight: 200;
     font-size: 4vw;
 }
@@ -23,7 +23,7 @@ hr {
     clear: both;
     border: none;
     border-top: 1px solid #cccccc;
-    border-bottom: 1px solid #FACD3D;
+    border-bottom: 1px solid #FFC107;
 }
 
 .main {

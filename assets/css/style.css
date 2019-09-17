@@ -12,11 +12,11 @@ p label {
 .hello {
     color: white;
     font-weight: 400;
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 .name {
-    color: #FACD3D;
+    color: #FFC107;
     font-weight: 450;
     font-size: 7vw;
 
@@ -25,7 +25,7 @@ p label {
 .statement {
     color: white;
     font-weight: 350;
-    font-size: 2vw;
+    font-size: 3vw;
 
 }
 
