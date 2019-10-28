@@ -33,5 +33,10 @@ hr {
     color: #FFC107;
 }
 
+img {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+}
 
 
